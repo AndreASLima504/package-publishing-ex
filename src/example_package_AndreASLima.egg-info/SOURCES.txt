@@ -1,0 +1,8 @@
+LICENSE
+pyproject.toml
+src/example_package_AndreASLima/__init__.py
+src/example_package_AndreASLima/example.py
+src/example_package_AndreASLima.egg-info/PKG-INFO
+src/example_package_AndreASLima.egg-info/SOURCES.txt
+src/example_package_AndreASLima.egg-info/dependency_links.txt
+src/example_package_AndreASLima.egg-info/top_level.txt
